@@ -1,12 +1,20 @@
 ## Primeiro_Test_Mobile_2022 !!
 
->Projeto desenvolvido do curso Semana do Teste Mobile da [Iterasys](https://iterasys.com.br/).<br>
+>Projeto desenvolvido no curso Semana do Teste Mobile da [Iterasys](https://iterasys.com.br/).<br>
 <br>
 ---
 
 ### Tipo de teste 🤖
 
-- Teste Mobile Automatizado: Para o teste mobile, foi criado um script passo a passo na plataforma [Sauce Labs](https://saucelabs.com/) do comandos do APK de calculadora.
+- Teste Mobile Automatizado: Para o teste mobile, foi criado um script passo a passo na plataforma [Sauce Labs](https://saucelabs.com/) dos comandos do APK de calculadora, o script foi incluido dentro da IDE PyCharm. Pela IDE PyCharm ao iniciar o script é possível acompanhar o teste rodando em tempo real dentro da plataforma  [Sauce Labs](https://app.saucelabs.com/dashboard/tests/vdc) por meio de uma ligação entre o servidor local da Sauce Labs, que foi iniciado no Appium Inspector.
+
+---
+
+### Ferramentas Usadas 
+
+- PyCharm IDE
+- Appium Inspector
+- Sauce Labs
 
 ---
 
